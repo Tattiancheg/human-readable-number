@@ -23,7 +23,9 @@
   "dependencies": {
     "chai": "^4.2.0",
     "colors": "^1.4.0",
+    "humanize": "0.0.9",
     "mocha": "^6.2.2",
+    "num-words": "^1.2.0",
     "semver": "^6.3.0"
   }
 }

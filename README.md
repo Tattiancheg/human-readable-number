@@ -1,5 +1,10 @@
 # Human Readable Number
 
+
+
+Ваша задача - реализовать функцию toReadable, которая преобразует заданное число в читаемую строку. Например:
+
+
 ## Task
 Your task is to implement function `toReadable` that converts given number, to readable string.
 
